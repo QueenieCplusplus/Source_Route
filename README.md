@@ -44,6 +44,7 @@ A neat solution was devised, it allows multiport source-route bridges to be crea
 
 * DLSw, Data Link SW
 
+![sw](https://www.tp-link.com/resources/images/faq/2008923175652769.jpg)
 
 * RSRB
 
