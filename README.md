@@ -8,7 +8,7 @@ Originally, Source-Route Bridging was deemed as a universal method for creating 
 
 Non-Transparent
 
-* 
+* The headers of token ring frames that must travers source-route bridge (the frame contains routing information that is used by the bridges to forward the frame thru source-route bridged LAN from src to des), the routing info describes precisely which bridges and segments the frame must traverse to arrive at the des.
 
 * The Source Node is responsible for inserting the routing information into the headers of the token ring frames that must be delivered thru Source-Rout Bridge.
 
