@@ -4,13 +4,15 @@ Source-Route Bridging is designed for interconnecting token ring segments into a
 
 Originally, Source-Route Bridging was deemed as a universal method for creating large-scale networks. However in actual world, source-route can not meet client's requirement.
 
-# Premises of Source-Route Bridging to be based upon (Non-Transparent)
+# Premises of Source-Route Bridging to be based upon 
+
+Non-Transparent
 
 * 
 
 *
 
-*
+* Source-Route Bridge requires each node to be able to discover and memorize routing information to DES accessible thru Source-Route Bridge.
 
 # Config of Source-Route
 
