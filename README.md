@@ -40,6 +40,13 @@ As designed spec, the source-route bridging got only 2 ports, in order to be byp
 
 A neat solution was devised, it allows multiport source-route bridges to be created, so an abstraction called 'virtual ring'. The operation of such a bridge counts that virtual ring as a regular ring and inserts an extra route designator into all routes and spanning explorers crossing the bridge.
 
+# Alternative to pure source-route Bridging
+
+* DLSw, Data Link SW
+
+
+* RSRB
+
 
 
 
