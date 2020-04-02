@@ -10,7 +10,7 @@ Non-Transparent
 
 * 
 
-*
+* The Source Node is responsible for inserting the routing information into the headers of the token ring frames that must be delivered thru Source-Rout Bridge.
 
 * Source-Route Bridge requires each node to be able to discover and memorize routing information to DES accessible thru Source-Route Bridge.
 
