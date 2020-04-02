@@ -24,5 +24,12 @@ Non-Transparent
 
 Like a transparently bridged LAN, source-route allows redundant paths to exist with a single source-route bridged route LAN. This redundant path helps to be utilized to recover from network component failure.
 
+# Multiple Source-Route Bridge
+
+As designed spec, the source-route bridging got only 2 ports, in order to be bypassed this weired obstacle, can require a significant amount of additional equipment.
+
+A neat solution was devised, it allows multiport source-route bridges to be created, so an abstraction called 'virtual ring'. The operation of such a bridge counts that virtual ring as a regular ring and inserts an extra route designator into all routes and spanning explorers crossing the bridge.
+
+
 
 
