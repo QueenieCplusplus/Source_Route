@@ -4,7 +4,7 @@ A Bridge is deemed to connect 2 different LAN segment
 
 
         
-        LAN   -------MAC     Bridge     MAC --------   LAN
+                  LAN   -------MAC     Bridge     MAC --------   LAN
         
         
  
