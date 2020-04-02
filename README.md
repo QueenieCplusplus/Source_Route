@@ -1,4 +1,4 @@
-# Source_Route
+# Source Route Bridging
 
 Source-Route Bridging is designed for interconnecting token ring segments into a bigger LAN.
 
