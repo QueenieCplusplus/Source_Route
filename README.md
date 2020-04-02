@@ -4,9 +4,19 @@ Source-Route Bridging is designed for interconnecting token ring segments into a
 
 Originally, Source-Route Bridging was deemed as a universal method for creating large-scale networks. However in actual world, source-route can not meet client's requirement.
 
-# Concept of Source-Route Bridging
+# Premises of Source-Route Bridging to be based upon (Non-Transparent)
 
+* 
 
+*
+
+*
+
+# Config of Source-Route
+
+- [x] Each Ring shall be assigned a unique number.
+
+- [x] Each bridge shall be assigned a unique number with each ring to which the bridge is connected.
 
 # Likelyhood between Source-Route & Transparent-Route
 
